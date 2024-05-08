@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Java design patterns lab
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Java Design Patterns lab
 
 | Title                    | Type | Duration | Author               |
 |--------------------------|------|----------|----------------------|
@@ -18,6 +18,11 @@
   appropriate design patterns.
 - Demonstrate the ability to apply design patterns effectively to enhance the flexibility, scalability, and
   maintainability of software systems.
+
+## Initial Setup
+
+For instructions on how to fork and clone the lab, please refer to
+this [link](https://git.generalassemb.ly/ENT-JAVA-Accelerator/start-here/blob/main/SETUP.md#how-do-i-fork-and-clone-lessonslabs).
 
 ### Instructions:
 
