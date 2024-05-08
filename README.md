@@ -59,7 +59,7 @@ Please note that this output serves as a guideline for the kind of information y
 However, the exact formatting of the output, including alignment, spacing, and the representation of null values or
 dates, is flexible and can be adjusted according to your implementation or preferences.
 
-## How to submit homework
+## How to submit the lab
 
 ### Setup
 
